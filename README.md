@@ -25,7 +25,7 @@ This folder stores configuration and runtime data, so it persists across contain
 New-Item -ItemType Directory -Path .\adguard\data\work -Force
 New-Item -ItemType Directory -Path .\adguard\data\conf -Force
 ```
-<img width="1074" height="726" alt="image" src="https://github.com/user-attachments/assets/3270e65b-1207-48a6-9392-3ad156f7b204" />
+<img width="800" height="526" alt="image" src="https://github.com/user-attachments/assets/3270e65b-1207-48a6-9392-3ad156f7b204" />
 
 
 ###2. Create a docker-compose.yml file
@@ -73,7 +73,7 @@ Enable DoH / DoT for encrypted DNS queries
 
 Replace the DNS servers as the following: 
 
-<img width="1591" height="734" alt="image" src="https://github.com/user-attachments/assets/a95d4f26-6fa9-415a-ae8d-4488b8f1666b" />
+<img width="900" height="534" alt="image" src="https://github.com/user-attachments/assets/a95d4f26-6fa9-415a-ae8d-4488b8f1666b" />
 
 Export your settings regularly to back up configurations
 
